@@ -16,9 +16,9 @@
 
 body {
   animation: slideIn 2s ease-out;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 1rem;
 }
 
 * {
