@@ -68,6 +68,17 @@ img {
   padding: 0px;
 }
 
+ol, ul {
+  display: flex;
+  flex-direction: column; /* Aligns items vertically */
+  justify-content: center; /* Centers them within the container */
+  align-items: center; /* Centers them horizontally */
+  gap: 10px; /* Adds spacing between lists */
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
 #quote {
   text-align: center;
   background-color: rgb(255, 255, 255);
