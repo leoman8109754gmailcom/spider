@@ -52,14 +52,14 @@ img {
 }
 
 #first_list {
-  max-width: 50%; /* Set a fixed or max width */
+  max-width: 500px; /* Set a fixed or max width */
   margin: 0 auto; /* Centers horizontally */
   background-color: rgb(255, 255, 255);
   padding: 0px;
 }
 
 #secnd_list {
-  max-width: 40%; /* Set a fixed or max width */
+  max-width: 400px; /* Set a fixed or max width */
   margin: 0 auto; /* Centers horizontally */
   background-color: rgb(255, 255, 255);
   padding: 0px;
