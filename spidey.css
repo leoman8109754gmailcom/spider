@@ -74,6 +74,7 @@ ol, ul {
   justify-content: center; /* Centers them within the container */
   align-items: center; /* Centers them horizontally */
   gap: 10px; /* Adds spacing between lists */
+  margin: 0;
   padding: 0;
   list-style-position: inside;
 }
