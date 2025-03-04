@@ -31,7 +31,7 @@ body {
   display: flex;
   justify-content: center; /* Centers horizontally */
   align-items: center; /* Centers vertically */
-  height: 200px;
+  height: 100px;
 }
 
 img {
@@ -74,7 +74,7 @@ ol, ul {
   justify-content: center; /* Centers them within the container */
   align-items: center; /* Centers them horizontally */
   gap: 10px; /* Adds spacing between lists */
-  margin: 0;
+  margin: 0 0 0 20px;
   padding: 0;
   list-style-position: inside;
 }
