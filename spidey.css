@@ -68,7 +68,7 @@ img {
   padding: 0px;
 }
 
-ol, ul {
+ul, ol {
   display: flex;
   flex-direction: column; /* Aligns items vertically */
   justify-content: center; /* Centers them within the container */
