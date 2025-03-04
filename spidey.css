@@ -31,7 +31,7 @@ body {
   display: flex;
   justify-content: center; /* Centers horizontally */
   align-items: center; /* Centers vertically */
-  height: 100px;
+  height: 300px;
 }
 
 img {
@@ -63,7 +63,7 @@ img {
 #secnd_list {
   max-width: 400px; /* Set a fixed or max width */
   min-width: 200px;
-  margin: 0 auto; /* Centers horizontally */
+  margin: 0; /* Centers horizontally */
   background-color: rgb(255, 255, 255);
   padding: 0px;
 }
